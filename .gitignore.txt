@@ -1,0 +1,10 @@
+X-Spark/Saved/Autosaves
+X-Spark/Saved/Backup
+X-Spark/Saved/HardwareSurvey
+X-Spark/Saved/Logs
+
+UE4.opensdf
+UE4.sdf
+UE4.sln
+UE4.suo
+UE4.*.suo
