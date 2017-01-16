@@ -2,6 +2,8 @@ X-Spark/Saved/Autosaves
 X-Spark/Saved/Backup
 X-Spark/Saved/HardwareSurvey
 X-Spark/Saved/Logs
+X-Spark/Saved/Cooked
+X-Spark/Saved/StagedBuilds
 
 UE4.opensdf
 UE4.sdf
